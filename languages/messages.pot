@@ -1,0 +1,867 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Package Name\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-27 09:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: gpls-cpt-exporter-importer-pro.php:196
+msgid "Select a Post Type!"
+msgstr ""
+
+#: gpls-cpt-exporter-importer-pro.php:200
+msgid "Invalid Post Type Name!"
+msgstr ""
+
+#: gpls-cpt-exporter-importer-pro.php:206
+msgid ""
+"Update the Menu Item Target ID from the new site or leave it empty if the "
+"post, page, term, etc.. that the menu item links to it has the same name on "
+"the new site"
+msgstr ""
+
+#: gpls-cpt-exporter-importer-pro.php:277
+msgid "Settings"
+msgstr ""
+
+#: gpls-cpt-exporter-importer-pro.php:350
+msgid "Export"
+msgstr ""
+
+#: gpls-cpt-exporter-importer-pro.php:353
+msgid "Import"
+msgstr ""
+
+#: gpls-cpt-exporter-importer-pro.php:356
+msgid "License Key"
+msgstr ""
+
+#: core/modules/license/class-license.php:59
+msgid "The plugin is activated succesfully"
+msgstr ""
+
+#: core/modules/license/class-license.php:64
+msgid "The License Key is expired, please renew the lience from your"
+msgstr ""
+
+#: core/modules/license/class-license.php:69
+msgid ""
+"Something went wrong, please try again. If the problem persists, Please "
+"contact us"
+msgstr ""
+
+#: core/modules/license/class-license.php:74
+msgid "Invalid License Key!"
+msgstr ""
+
+#: core/modules/license/class-license.php:79
+msgid "Max Sites Exceeded for the License Key"
+msgstr ""
+
+#: core/modules/license/class-license.php:84
+msgid "The License Key is empty!"
+msgstr ""
+
+#: core/modules/license/class-license.php:89
+msgid "The license key is inactive"
+msgstr ""
+
+#: core/modules/license/class-license.php:198
+msgid "Licnese Key"
+msgstr ""
+
+#: core/modules/license/class-license.php:287
+msgid "The link you followed is expired"
+msgstr ""
+
+#: core/modules/updates/class-plugin-update.php:85
+msgid "The new version is available, You can download it from your"
+msgstr ""
+
+#: core/modules/updates/class-plugin-update.php:85
+msgid "Account"
+msgstr ""
+
+#: core/modules/updates/class-plugin-update.php:99
+msgid "A new version of"
+msgstr ""
+
+#: core/modules/updates/class-plugin-update.php:99
+msgid "Plugin is available"
+msgstr ""
+
+#: core/modules/updates/class-plugin-update.php:99
+msgid "You can get it from your"
+msgstr ""
+
+#: core/modules/updates/class-plugin-update.php:99
+msgid "account"
+msgstr ""
+
+#: libs/attachment-helper.php:120 libs/attachment-helper.php:136
+msgid "Zip file not created yet!"
+msgstr ""
+
+#: libs/exporter-helper.php:609 views/cpt-export-page.php:56
+#: views/cpt-export-page.php:73 views/cpt-export-page.php:80
+#: views/cpt-export-page.php:101
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: libs/exporter-helper.php:612
+#, php-format
+msgctxt "user dropdown"
+msgid "%1$s (%2$s)"
+msgstr ""
+
+#: libs/importer-helper.php:329 libs/importer-helper.php:333
+#: libs/importer-helper.php:396 libs/importer-helper.php:404
+#: libs/importer-helper.php:408 libs/importer-helper.php:575
+#: libs/importer-helper.php:584 libs/menus-importer.php:149
+#: libs/menus-importer.php:153 libs/menus-importer.php:163
+#: libs/menus-importer.php:187 libs/menus-importer.php:195
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: libs/importer-helper.php:334 libs/importer-helper.php:409
+#: libs/menus-importer.php:154
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: libs/importer-helper.php:397
+msgid "Invalid File Type, Upload the exported CPTs XML File!"
+msgstr ""
+
+#: libs/importer-helper.php:436
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: libs/importer-helper.php:461 views/cpt-export-page.php:22
+#: views/menus-export-page.php:31
+msgid "Fetching and Preparing Post types and Terms"
+msgstr ""
+
+#: libs/importer-helper.php:475
+msgid "Assign All posts to a single Author"
+msgstr ""
+
+#: libs/importer-helper.php:478
+msgid "All imported posts will be assigned to the selected Author"
+msgstr ""
+
+#: libs/importer-helper.php:485 libs/importer-helper.php:557
+msgid "- Select -"
+msgstr ""
+
+#: libs/importer-helper.php:498
+msgid "Assign Authors"
+msgstr ""
+
+#: libs/importer-helper.php:503
+msgid ""
+"Reassign the author of the imported posts to an existing author of this site "
+"or create a new author"
+msgstr ""
+
+#: libs/importer-helper.php:505
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: libs/importer-helper.php:513
+msgid "No Authors to import!"
+msgstr ""
+
+#: libs/importer-helper.php:518
+msgid "Start Importing"
+msgstr ""
+
+#: libs/importer-helper.php:531
+msgid "Import author:"
+msgstr ""
+
+#: libs/importer-helper.php:541
+msgid "as a new user:"
+msgstr ""
+
+#: libs/importer-helper.php:549
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: libs/importer-helper.php:576 libs/menus-importer.php:188
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: libs/importer-helper.php:632
+msgid "All done."
+msgstr ""
+
+#: libs/importer-helper.php:635
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: libs/importer-helper.php:637
+msgid ""
+"Check the Menus for any invalid or missing posts, terms, archives targets"
+msgstr ""
+
+#: libs/importer-helper.php:637 views/export-page.php:10
+msgid "Menus"
+msgstr ""
+
+#: libs/importer-helper.php:767 libs/importer-helper.php:959
+#: libs/menus-importer.php:301
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: libs/importer-helper.php:843
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: libs/importer-helper.php:925
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: libs/importer-helper.php:1106
+msgid "Invalid file type"
+msgstr ""
+
+#: libs/importer-helper.php:1164
+msgid "Could not create temporary file."
+msgstr ""
+
+#: libs/importer-helper.php:1183
+#, php-format
+msgid "Request failed due to an error: %1$s (%2$s)"
+msgstr ""
+
+#: libs/importer-helper.php:1199
+#, php-format
+msgid "Remote server returned the following unexpected result: %1$s (%2$s)"
+msgstr ""
+
+#: libs/importer-helper.php:1211
+msgid "Remote server did not respond"
+msgstr ""
+
+#: libs/importer-helper.php:1218
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: libs/importer-helper.php:1223
+msgid "Downloaded file has incorrect size"
+msgstr ""
+
+#: libs/importer-helper.php:1229
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: libs/importer-helper.php:1261
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr ""
+
+#: libs/importer-helper.php:1276
+msgid "The uploaded file could not be moved"
+msgstr ""
+
+#: libs/importer-helper.php:1325 libs/menus-importer.php:448
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: libs/importer-helper.php:1332 libs/menus-importer.php:455
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: libs/importer-helper.php:1692
+#, php-format
+msgid ""
+"Failed to create new user for %s Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: libs/importer-helper.php:1814
+#, php-format
+msgid ""
+"File is empty. Please upload something more substantial. This error could "
+"also be caused by uploads being disabled in your %1$s file or by %2$s being "
+"defined as smaller than %3$s in %1$s."
+msgstr ""
+
+#: libs/importer-helper.php:1824
+msgid "Invalid File Type, Upload the exported Attachments Zip File!"
+msgstr ""
+
+#: libs/importer-helper.php:1869
+msgid ""
+"Before you can upload your import file, you will need to fix the following "
+"error:"
+msgstr ""
+
+#: libs/importer-helper.php:1879
+msgid "Choose the exported "
+msgstr ""
+
+#: libs/importer-helper.php:1880
+#, php-format
+msgid "Maximum size: %s"
+msgstr ""
+
+#: libs/importer-helper.php:1891
+msgid "Upload and import"
+msgstr ""
+
+#: libs/importer-helper.php:1893
+msgid "Upload"
+msgstr ""
+
+#: libs/importer-helper.php:1962
+msgid "Post Type Archive"
+msgstr ""
+
+#: libs/menus-importer.php:171
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: libs/menus-importer.php:392
+#, php-format
+msgid "Failed to import &#8220;%1$s&#8221;: Invalid post type %2$s"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/easy_xml.py:51
+msgid "\n"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/easy_xml.py:78
+msgid "<"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/easy_xml.py:84
+#, python-format
+msgid " %s=\"%s\""
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/easy_xml.py:87
+msgid ">"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/easy_xml.py:101
+#, python-format
+msgid "</%s>%s"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/easy_xml.py:103
+#, python-format
+msgid "/>%s"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/input.py:1837
+#: node_modules/node-gyp/gyp/pylib/gyp/input.py:1898
+#, python-format
+msgid "Cycle: %s"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:358
+msgid "_MBCS"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:423
+msgid "/safeseh"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:473
+msgid "/FS"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:543
+#, python-format
+msgid "/DEF:\"%s\""
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:575
+msgid "/OUT:"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:578
+msgid "/PDB:"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:581
+msgid "/PGD:"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:604
+#, python-format
+msgid "/STACK:%s%s"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:643
+msgid "/DYNAMICBASE"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:650
+msgid "/NXCOMPAT"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:692
+msgid "/MANIFESTUAC:NO"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:740
+msgid "/ALLOWISOLATION"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/msvs_emulation.py:785
+msgid "/I"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/ninja_syntax.py:72
+msgid "|"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/ninja_syntax.py:76
+msgid "||"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcodeproj_file.py:276
+#, python-format
+msgid "\\U%04x"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcodeproj_file.py:988
+msgid ".name"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcodeproj_file.py:999
+msgid ".path"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcodeproj_file.py:1066
+msgid "$("
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:481
+#, python-format
+msgid "-isysroot %s"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:484
+msgid "-Wconstant-conversion"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:487
+msgid "-funsigned-char"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:490
+msgid "-fasm-blocks"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:494
+msgid "-mdynamic-no-pic"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:502
+msgid "-mpascal-strings"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:509
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:513
+msgid "-gdwarf-2"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:518
+msgid "-fstrict-aliasing"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:520
+msgid "-fno-strict-aliasing"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:523
+msgid "-fvisibility=hidden"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:526
+msgid "-Werror"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:529
+msgid "-Wnewline-eof"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:536
+msgid "-flto"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:559
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:822
+msgid "-arch "
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:563
+msgid "-msse3"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:566
+msgid "-mssse3"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:568
+msgid "-msse4.1"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:570
+msgid "-msse4.2"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:577
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:586
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:840
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:845
+msgid "-F"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:596
+msgid "-ansi"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:613
+#, python-format
+msgid "-std=%s"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:618
+msgid "-fno-rtti"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:620
+msgid "-fno-exceptions"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:622
+msgid "-fvisibility-inlines-hidden"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:624
+msgid "-fno-threadsafe-statics"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:627
+msgid "-Wno-invalid-offsetof"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:647
+msgid "-fobjc-gc"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:649
+msgid "-fobjc-gc-only"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:653
+msgid "-fobjc-arc"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:658
+msgid "-Wobjc-missing-property-synthesis"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:678
+msgid "-fobjc-call-cxx-cdtors"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:790
+msgid "-Wl,-dead_strip"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:793
+msgid "-Wl,-prebind"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:803
+msgid "-isysroot "
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:806
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:825
+msgid "-L"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:809
+msgid "-Wl,-order_file "
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:829
+msgid "-install_name "
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:832
+msgid "-Wl,-rpath,"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:853
+msgid "-lpkstart"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:856
+msgid "/System/Library/PrivateFrameworks/PlugInKit.framework/PlugInKit"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:857
+msgid "-fapplication-extension"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:858
+msgid "-Xlinker -rpath -Xlinker @executable_path/../../Frameworks"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:950
+#, python-format
+msgid "echo STRIP\\(%s\\)"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:951
+#, python-format
+msgid "strip %s %s"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:969
+#, python-format
+msgid "echo DSYMUTIL\\(%s\\)"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:970
+#, python-format
+msgid "dsymutil %s -o %s"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/xcode_emulation.py:1618
+#, python-format
+msgid "echo POSTBUILD\\(%s\\) %s"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/__init__.py:364
+msgid "USERPROFILE"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/analyzer.py:663
+msgid "all"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/android.py:450
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/make.py:982
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/make.py:1108
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/make.py:1150
+#, python-format
+msgid "$(%s)"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/cmake.py:376
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/cmake.py:377
+msgid "${"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/eclipse.py:223
+msgid "1"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/make.py:1279
+msgid "$(OBJS)"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/make.py:1501
+#, python-format
+msgid "-Wl,-rpath=\\$$ORIGIN/lib.%s/"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/make.py:1502
+#, python-format
+msgid "-Wl,-rpath-link=\\$(builddir)/lib.%s/"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/make.py:1530
+msgid "$(TARGET_POSTBUILDS_$(BUILDTYPE))"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/make.py:1994
+msgid "BUILDTYPE="
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/msvs.py:2946
+msgid "Label"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/msvs.py:3109
+#, python-format
+msgid "%%(%s)"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/ninja.py:1181
+#, python-format
+msgid "-Wl,-rpath=\\$$ORIGIN/%s"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/ninja.py:1182
+#, python-format
+msgid "-Wl,-rpath-link=%s"
+msgstr ""
+
+#: node_modules/node-gyp/gyp/pylib/gyp/generator/ninja.py:1415
+#, python-format
+msgid "export %s=%s;"
+msgstr ""
+
+#: views/cpt-export-page.php:6
+msgid "No Posts Found"
+msgstr ""
+
+#: views/cpt-export-page.php:12 views/menus-export-page.php:20
+msgid "No Attachments was found for the exported data"
+msgstr ""
+
+#: views/cpt-export-page.php:47
+#, php-format
+msgid "No %s yet:"
+msgstr ""
+
+#: views/cpt-export-page.php:54
+msgid "Available  Status:"
+msgstr ""
+
+#: views/cpt-export-page.php:70
+msgid "Date range"
+msgstr ""
+
+#: views/cpt-export-page.php:71
+msgid "Start date:"
+msgstr ""
+
+#: views/cpt-export-page.php:78
+msgid "End date:"
+msgstr ""
+
+#: views/cpt-export-page.php:87
+msgid "Authors"
+msgstr ""
+
+#: views/cpt-export-page.php:126
+msgid "Download Export XML File"
+msgstr ""
+
+#: views/cpt-export-page.php:127 views/menus-export-page.php:135
+msgid "Download Export Attachments Zip File"
+msgstr ""
+
+#: views/export-page.php:6
+msgid "CPTs"
+msgstr ""
+
+#: views/import-page.php:4
+msgid "Refresh"
+msgstr ""
+
+#: views/import-page.php:10
+msgid "Attachments have been imported in Uploads Folder!."
+msgstr ""
+
+#: views/import-page.php:18
+msgid "Import XML FILE"
+msgstr ""
+
+#: views/import-page.php:19
+msgid ""
+"This step will import the posts and attachments in the database and generate "
+"attachments differnet sizes, This process could take some time for big "
+"content!"
+msgstr ""
+
+#: views/import-page.php:27
+msgid "Import Attachment ZIP FILE"
+msgstr ""
+
+#: views/import-page.php:28
+msgid "If you did this step, proceed to the xml file step"
+msgstr ""
+
+#: views/import-page.php:28
+msgid "Move to The XML File Step"
+msgstr ""
+
+#: views/import-page.php:30
+msgid "This step will import the attachments files in the uploads folder"
+msgstr ""
+
+#: views/menus-export-page.php:9 views/menus-export-page.php:134
+msgid "Export Menus"
+msgstr ""
+
+#: views/menus-export-page.php:14
+msgid "No Menus Selected"
+msgstr ""
+
+#: views/menus-export-page.php:46
+msgid "Toggle Check All"
+msgstr ""
+
+#: views/menus-export-page.php:47
+msgid "Toggle Expand / Collapse All"
+msgstr ""
+
+#: views/menus-export-page.php:64
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: views/menus-export-page.php:68
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: views/menus-export-page.php:107
+msgid "Export the <strong>"
+msgstr ""
+
+#: views/menus-export-page.php:111
+msgid "The target <strong>"
+msgstr ""
+
+#: views/menus-export-page.php:113
+msgid "Leave blank if the "
+msgstr ""
+
+#: views/menus-export-page.php:116
+msgid "Make sure the same post type is registered in the new site!"
+msgstr ""
+
+#: views/menus-export-page.php:141
+msgid "No Menus found"
+msgstr ""

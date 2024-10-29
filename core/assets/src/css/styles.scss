@@ -1,0 +1,45 @@
+@font-face {
+	font-family: 'gpls-plugins-vegan-font';
+	font-style: italic;
+	font-weight: bolder;
+	font-display: auto;
+	src: url( '../fonts/vegan.ttf' ) format( 'truetype' );
+}
+@font-face {
+	font-family: 'gpls-plugins-lato-italic-bold';
+	font-style: italic;
+	font-weight: bolder;
+	font-display: auto;
+	src: url( '../fonts/Lato-BoldItalic.ttf' ) format( 'truetype' );
+}
+@font-face {
+	font-family: 'gpls-plugins-lato-regular';
+	font-style: italic;
+	font-weight: bolder;
+	font-display: auto;
+	src: url( '../fonts/Lato-Regular.ttf' ) format( 'truetype' );
+}
+
+.mfp-wrap {
+	z-index: 100001;
+}
+
+.gpls-plugins-pro-features {
+
+	h1, h2, h3, h4, h5, h6 {
+		font-family: "gpls-plugins-lato-italic-bold";
+	}
+	span {
+		font-family: "gpls-plugins-lato-regular";
+	}
+
+	ul {
+		list-style: unset !important;
+	}
+
+	.hover-zoom-in {
+		cursor: -moz-zoom-in;
+		cursor: -webkit-zoom-in;
+		cursor: zoom-in;
+	}
+}
